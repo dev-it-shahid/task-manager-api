@@ -65,7 +65,7 @@ DELETE|	/tasks<id>|	Delete a task
 ### 🙌 Credits
 Built with ❤️ by Shahid Laskar
 
-- `https://github.com/shahid-dev-itrname/task-manager-api.git` 
+- `https://github.com/dev-it-shahid/task-manager-api.git` 
 - `Shahid Laskar`
 
 
